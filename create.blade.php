@@ -11,7 +11,6 @@
 
         <title>Deixe sua Opinião!</title>
     </head>
-
     <body>
         <div class="container">
             <div class="form-image">
